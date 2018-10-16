@@ -4,3 +4,4 @@ default_print_url = "https://return-case-doc.ccd.demo.platform.hmcts.net/jurisdi
 capacity = "2"
 frontend_url = "https://www.ccd.demo.platform.hmcts.net"
 elastic_search_enabled = "true"
+use_shared_appinsight = "true"
